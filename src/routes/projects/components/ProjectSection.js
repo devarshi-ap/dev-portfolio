@@ -15,7 +15,7 @@ const ProjectSection = (props) => {
 
                 <Project 
                     projectUrl="https://github.com/devarshi-ap/twitter-cli-tool"
-                    title="TWTY"
+                    title="Twty"
                     description="A Twitter Command Line Interface tool which allows users to perform twitter actions from the terminal within seconds."
                     arr={["python"]}
                 />
