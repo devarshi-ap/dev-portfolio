@@ -31,7 +31,7 @@ const ProjectSection = (props) => {
                     projectUrl="https://github.com/devarshi-ap/server-side-node/tree/master/reddit-cli"
                     title="Reddit CLI"
                     description="A Node.JS CLI which logs a random post from the Front Page of the Internet Reddit API."
-                    arr={["Node.JS"]}
+                    arr={["node"]}
                 />
 
                 <Project 
