@@ -28,6 +28,13 @@ const ProjectSection = (props) => {
                 />
 
                 <Project 
+                    projectUrl="https://github.com/devarshi-ap/server-side-node/tree/master/reddit-cli"
+                    title="Reddit CLI"
+                    description="A Node.JS CLI which logs a random post from the Front Page of the Internet Reddit API."
+                    arr={["Node.JS"]}
+                />
+
+                <Project 
                     projectUrl="https://github.com/devarshi-ap/ecommerce-site-clone"
                     title="E-Commerce Shopify Site Clone"
                     description="Clone of shopify's e-commerce site built- ground up- with react components, react-router-dom, material-ui, and sass."
